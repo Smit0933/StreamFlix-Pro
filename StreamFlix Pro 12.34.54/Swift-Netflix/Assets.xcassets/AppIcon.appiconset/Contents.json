@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "ezgif-1dd3f2cfc86332.jpg",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
